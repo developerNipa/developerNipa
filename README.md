@@ -18,18 +18,23 @@
 
 <h2 align="center"><img src="https://img.shields.io/badge/ABOUT%20ME-7C3AED?style=for-the-badge" /></h2>
 
-I'm a professional **WordPress Web Developer and Designer** specializing in **WordPress, Elementor, WooCommerce, SEO**, and modern website solutions. I help businesses build professional, responsive, user-friendly websites that attract visitors and convert them into customers.
 
-I'm a **WordPress Developer and AI Automation Engineer** focused on building business websites, eCommerce solutions, and practical workflow automations.
 
-I combine website development with automation to help businesses improve their online presence, streamline repetitive processes, and connect the tools they use.
 
-- 🌐 Building websites with WordPress and Elementor
-- 🛒 Developing and configuring WooCommerce stores
-- 🤖 Creating AI-powered and workflow automation solutions
-- 🔗 Connecting services through REST API integrations
-- ⚙️ Exploring practical ways to automate business processes
-- 📚 Continuously learning and improving my technical skills
+I'm a **WordPress Developer, Web Designer, and AI Automation Engineer** specializing in WordPress, Elementor, WooCommerce, SEO, and AI-powered workflow automation. I help businesses build professional, responsive websites and eCommerce solutions while automating repetitive tasks to improve efficiency and streamline business processes.
+
+My work combines **creative website development with practical automation**, focusing on clean design, strong functionality, SEO optimization, and a smooth user experience.
+
+- 🌐 Building professional websites with WordPress and Elementor
+- 🛒 Developing WooCommerce stores and managing product catalogs
+- 🤖 Creating AI-powered workflows and business automation solutions
+- 🔗 Connecting applications and services through REST API integrations
+- 📈 Improving website performance, SEO, and search visibility
+- ⚙️ Exploring smarter ways to automate business processes
+- 📚 Continuously learning and expanding my technical skills
+
+I enjoy turning business requirements into practical digital solutions that help businesses strengthen their online presence, serve customers better, and work more efficiently.
+
 
 I work on business websites, eCommerce stores, product catalogs, landing pages, and SEO optimization, with a focus on **clean design, strong functionality, and a smooth user experience**.
 

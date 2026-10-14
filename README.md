@@ -1,5 +1,5 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c6a5d36d-8ff7-411f-b3c3-c8837b022d2f" />
-<p align="center">
+
+<p align="center" style="border-radius: 50%; object-fit: cover;" >
   <img width="100" height="100" alt="Nipa Akter" src="https://github.com/user-attachments/assets/c6a5d36d-8ff7-411f-b3c3-c8837b022d2f" />
 </p>
 

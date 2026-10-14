@@ -1,4 +1,8 @@
-<img  align="center" width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/3894a276-ec41-4838-9775-3f9f5d02fb74" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c6a5d36d-8ff7-411f-b3c3-c8837b022d2f" />
+<p align="center">
+  <img width="100" height="100" alt="Nipa Akter" src="https://github.com/user-attachments/assets/c6a5d36d-8ff7-411f-b3c3-c8837b022d2f" />
+</p>
+
 
 <h1 align="center">Nipa Akter</h1>
 

@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nipa%20Akter&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20%26%20WooCommerce%20Expert&descSize=22&descAlignY=60" width="100%" />
+<h1 align="center">Nipa Akter</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=WordPress+%26+WooCommerce+Expert;Elementor+%7C+SEO+%7C+AI+Automation;Building+websites+that+convert+visitors+into+customers" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">WordPress &amp; WooCommerce Expert | Elementor | SEO | AI Automation</h3>
+
+<p align="center"><i>Building websites that convert visitors into customers</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -113,11 +111,11 @@ I work on business websites, eCommerce stores, product catalogs, landing pages, 
 
 ---
 
-<h2 align="center"><img src="https://img.shields.io/badge/GITHUB%20STATS-0EA5E9?style=for-the-badge" /></h2>
+<h2 align="center"><img src="https://img.shields.io/badge/GITHUB-0EA5E9?style=for-the-badge" /></h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/developerNipa?style=for-the-badge&color=7C3AED&logo=github" />
+  <img src="https://img.shields.io/github/stars/developerNipa?style=for-the-badge&color=F59E0B&logo=github" />
 </p>
 
 ---
@@ -133,5 +131,3 @@ I work on business websites, eCommerce stores, product catalogs, landing pages, 
 </p>
 
 <p align="center"><b>WordPress • Elementor • WooCommerce • SEO • Local SEO • Ecommerce • Website Optimization • AI Automation</b></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />

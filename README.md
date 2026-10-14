@@ -127,9 +127,9 @@ I work on business websites, eCommerce stores, product catalogs, landing pages, 
 <p align="center">Have a WordPress website that needs to be built, redesigned, optimized, or turned into a powerful WooCommerce store?<br/><b>Let's create a website that works for your business.</b></p>
 
 <p align="center">
-  <a href="https://YOUR-WEBSITE-LINK"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://nipadev.com/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/devnipa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nipaakterdev818@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><b>WordPress • Elementor • WooCommerce • SEO • Local SEO • Ecommerce • Website Optimization • AI Automation</b></p>

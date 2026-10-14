@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
   <img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 </p>
 

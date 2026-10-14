@@ -20,6 +20,17 @@
 
 I'm a professional **WordPress Web Developer and Designer** specializing in **WordPress, Elementor, WooCommerce, SEO**, and modern website solutions. I help businesses build professional, responsive, user-friendly websites that attract visitors and convert them into customers.
 
+I'm a **WordPress Developer and AI Automation Engineer** focused on building business websites, eCommerce solutions, and practical workflow automations.
+
+I combine website development with automation to help businesses improve their online presence, streamline repetitive processes, and connect the tools they use.
+
+- 🌐 Building websites with WordPress and Elementor
+- 🛒 Developing and configuring WooCommerce stores
+- 🤖 Creating AI-powered and workflow automation solutions
+- 🔗 Connecting services through REST API integrations
+- ⚙️ Exploring practical ways to automate business processes
+- 📚 Continuously learning and improving my technical skills
+
 I work on business websites, eCommerce stores, product catalogs, landing pages, and SEO optimization, with a focus on **clean design, strong functionality, and a smooth user experience**.
 
 ---
